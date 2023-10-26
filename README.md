@@ -18,13 +18,12 @@ Before you begin, ensure you have met the following requirements:
 - Node.js installed on your local machine
 - MongoDB installed and running
 
-## Getting Started
-git clone git@github.com:HasanZaigam/API_-SDC-.git
+## Getting Started:- 
 
 1. Clone the repository:
 
 ```bash
-git clonegit@github.com:HasanZaigam/API_-SDC-.git
+git clone git@github.com:HasanZaigam/API_-SDC-.git
 cd todo-app
 
 Install the project dependencies:
