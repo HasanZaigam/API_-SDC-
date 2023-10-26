@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 - MongoDB installed and running
 
 ## Getting Started
-git clone https://github.com/your-username/todo-app.git
+git clone git@github.com:HasanZaigam/API_-SDC-.git
 
 1. Clone the repository:
 
